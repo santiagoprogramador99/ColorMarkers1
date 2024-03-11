@@ -20,4 +20,5 @@ CSS Classes
 .red, .green, .blue: Define different colors for the markers.
 Customization
 You can customize the colors of the markers by modifying the CSS classes .red, .green, and .blue. Additionally, you can adjust other styling properties in the styles.css file to suit your preferences.
-![image](https://github.com/santiagoprogramador99/ColorMarkers1/assets/112513439/a315dc48-25d4-4884-ae5f-33b3a275610e)
+![csss image colors](https://github.com/santiagoprogramador99/ColorMarkers1/assets/112513439/a686ad3b-28d5-4cb1-949b-94cc6c0894da)
+
